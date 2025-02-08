@@ -1,0 +1,8 @@
+# Ignore temporary files
+*.log
+*.pyc
+__pycache__/
+.vscode/
+
+Lib/
+Scripts/
